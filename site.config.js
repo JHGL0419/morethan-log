@@ -6,14 +6,13 @@ const CONFIG = {
     role: "Computer Science Student",
     bio: "Hanyang Univ - ICEWALL",
     email: "supercsehan@gmail.com",
-    linkedin: "",
     github: "JHGL0419",
     instagram: "jeong_h.go",
   },
   projects: [
     {
       name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      href: "https://github.com/JHGL0419/morethan-log",
     },
   ],
   // blog setting (required)
